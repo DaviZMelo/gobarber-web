@@ -1,0 +1,14 @@
+[34m162158f[31m (HEAD -> main) [37mfeat: add dashboard page and route - [36mDavi Melo, [32m47 minutes ago
+[34m24a5066[31m (origin/main) [37mfeat: add signup and signin appear animation - [36mDavi Melo, [32m50 minutes ago
+[34m8f17325[31m [37mfeat: add Link redirect between pages - [36mDavi Melo, [32m71 minutes ago
+[34mdb243ec[31m [37mfeat: add index and signup routes - [36mDavi Melo, [32m75 minutes ago
+[34m007756b[31m [37mchore: add react-router-dom - [36mDavi Melo, [32m80 minutes ago
+[34m9ecd1f9[31m [37mfeat: add toast animation - [36mDavi Melo, [32m88 minutes ago
+[34mc2f09ab[31m [37mfeat: add toast hook - [36mDavi Melo, [32m18 hours ago
+[34mc54fc1e[31m [37mfeat: add toast notification styles - [36mDavi Melo, [32m23 hours ago
+[34ma22108c[31m [37mfeat: add authentication with LocalStorage persistence - [36mDavi Melo, [32m2 days ago
+[34m6fadb9b[31m [37mfeat: add login and register validatio with tooltips and ux tricks - [36mDavi Melo, [32m2 days ago
+[34m32bf2cd[31m [37mfeat: add unform in inputs and SignUp page - [36mDavi Melo, [32m4 days ago
+[34ma7e5b38[31m [37mfeat: add SignUp page - [36mDavi Melo, [32m4 days ago
+[34m1e82a81[31m [37mfeat: add SignIn page - [36mDavi Melo, [32m4 days ago
+[34mf3ae19f[31m [37mfeat: initial commit - [36mDavi Melo, [32m4 days ago
