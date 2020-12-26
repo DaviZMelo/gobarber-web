@@ -32,7 +32,7 @@ export const Container = styled(animated.div)<ContainerProps>`
   display: flex;
 
   & + div {
-    margin-top: 8px0;
+    margin-top: 8px;
   }
 
   ${props => toastTypeVariations[props.type || 'info']}
